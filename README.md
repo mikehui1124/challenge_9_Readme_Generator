@@ -1,4 +1,4 @@
-![Hex.pm](https://img.shields.io/hexpm/l/plug?style=for-the-badge)
+# Challenge Week 9_README Generator
 
     # Project Title:
     # fdsf
